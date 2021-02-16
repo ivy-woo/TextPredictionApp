@@ -1,5 +1,3 @@
-# Text Prediction App
-
 This repo contains the relevant information about the construction of a text prediction app.
 This project completes the capstone course of the [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) on Coursera.
 
@@ -32,7 +30,7 @@ Note that some selected functions are intentionally not fully displayed, so as t
 The documentation folder contains 4 pdf documentation files:
 
 - The [dataset doc](https://ivy-woo.github.io/TextPredictionApp/documentation/docDataset.pdf) includes summary on the raw dataset, the data cleaning process and information on the processed data.  
-  An additional html version of this doc can be viewed on the Rpub page [here](https://rpubs.com/ivywoo/726265).
+  An html version of this doc can be viewed on the RPubs page [here](https://rpubs.com/ivywoo/726265).
 
 - The [functions doc](https://ivy-woo.github.io/TextPredictionApp/documentation/docFunctions.pdf) provides information on all of the 13 self-defined functions used in this project, i.e. those in the functions.R file.
 
@@ -43,4 +41,4 @@ The documentation folder contains 4 pdf documentation files:
 ---------------------------------
 #### Presentation Slide
 
-Additionally, a short presentation slide of the app can be found on the Rpub page here.
+Additionally, a short presentation slide of the app can be found on the RPubs page [here](https://rpubs.com/ivywoo/726663).
