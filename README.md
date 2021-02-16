@@ -4,12 +4,10 @@ This project completes the capstone course of the [Data Science Specialization](
 The web version of the text prediction app is deployed on Shinyapp.io and can be played around at
 [https://ivywoo.shinyapps.io/ShinyTextPrediction/](https://ivywoo.shinyapps.io/ShinyTextPrediction/). Have fun :)
 
-All contents in this repo can be viewed on Github Pages at [https://ivy-woo.github.io/TextPredictionApp/](https://ivy-woo.github.io/TextPredictionApp/).
-
 Please create an issue in this repo for any bug report.
 
 <br/>
-The following files are in this repo:
+Here you find the following files:
 
 ### app.R
 
@@ -27,7 +25,7 @@ Note that some selected functions are intentionally not fully displayed, so as t
 
 ### documentation/doc{Dataset,Functions,ModelConstruction,Usage}.pdf
 
-The documentation folder contains 4 pdf documentation files:
+The documentation folder contains 4 pdf documentation files (click on the names below to view in the browser):
 
 - The [dataset doc](https://ivy-woo.github.io/TextPredictionApp/documentation/docDataset.pdf) includes summary on the raw dataset, the data cleaning process and information on the processed data.  
   An html version of this doc can be viewed on the RPubs page [here](https://rpubs.com/ivywoo/726265).
