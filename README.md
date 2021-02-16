@@ -1,3 +1,5 @@
+# Text Prediction App
+
 This repo contains the relevant information about the construction of a text prediction app.
 This project completes the capstone course of the [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) on Coursera.
 
